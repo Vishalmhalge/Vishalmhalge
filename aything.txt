@@ -1,0 +1,62 @@
+- 👋 Hi, I’m @Vishalmhalge
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Vishalmhalge/Vishalmhalge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+ls
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ ls
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ mkdir new directory
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ ls new directory
+directory:
+
+new:
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ cd new directory
+bash: cd: too many arguments
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ touch anything.txt
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        anything.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ vi anything.txt
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        anything.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+$ vi anything.txt
+
+Administrator@DESKTOP-2P7CBSM MINGW64 ~/projectx (master)
+
+
